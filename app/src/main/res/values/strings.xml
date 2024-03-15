@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">EndoscopeVideoTrasmitter</string>
+    <string name="start_hotspot">Start Hotspot</string>
+    <string name="start_and_make_qr">Start and Make QR</string>
 </resources>
